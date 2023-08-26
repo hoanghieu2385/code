@@ -1,0 +1,19 @@
+Index: 25 th 8 nam 2023/bai 6/2.c
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#include <stdio.h>\r\nvoid main()\r\n{\r\n    printf(\"The number 555 in various forms:\\n\");\r\n    printf(\"Without any modifier: \\n\");\r\n    printf(\"[%d]\\n\", 555);\r\n    printf(\"With - modifier:\\n\");\r\n    printf(\"[%-d]\\n\", 555);\r\n    printf(\"With digit string 10 as modifier:\\n\");\r\n    printf(\"[%10d]\\n\", 555);\r\n    printf(2\"With 0 as modifier: \\n\");\r\n    printf(\"[%0d]\\n\", 555);\r\n    printf(\"With 0 and digit string 10 as modifiers:\\n\");\r\n    printf(\"[%010d]\\n\", 555);\r\n    printf(\"With -, 0 and digit string 10 as modifiers:\\n\");\r\n    printf(\"[%-010d]\\n\", 555);\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/25 th 8 nam 2023/bai 6/2.c b/25 th 8 nam 2023/bai 6/2.c
+--- a/25 th 8 nam 2023/bai 6/2.c	(revision f11661f761188ee82fddd28ae2934d23171e4616)
++++ b/25 th 8 nam 2023/bai 6/2.c	(date 1693049781121)
+@@ -8,7 +8,7 @@
+     printf("[%-d]\n", 555);
+     printf("With digit string 10 as modifier:\n");
+     printf("[%10d]\n", 555);
+-    printf(2"With 0 as modifier: \n");
++    printf("With 0 as modifier: \n");
+     printf("[%0d]\n", 555);
+     printf("With 0 and digit string 10 as modifiers:\n");
+     printf("[%010d]\n", 555);
