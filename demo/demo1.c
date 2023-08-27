@@ -2,13 +2,9 @@
 #include <math.h>
 
 int main(){
-    int a, b, c, d;
-    a = 50;
-    b = 24;
-    c = 68;
-    d = a*b+c/2;
-    printf("\n The value after a*b+c/2 is : %d", d);
-    //d = a%b;
-
+   printf("40/17*13/3 = %d",40/17*13/3);
+    printf("\n40/17*13/3.0 = %lf",40/17*13/3.0);
+    printf("\n40/17*13.0/3 = %lf",40/17*13.0/3);
+    printf("\n40/17.0*13/3 = %lf",40/17.0*13/3);
     return 0;
 }
