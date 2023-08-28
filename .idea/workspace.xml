@@ -9,19 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7389341b-523a-4357-8046-351f596aa413" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/demo/SoSanh2SO.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/SoSanh2SO.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/t.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/t.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/t2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/tempCodeRunnerFile.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t2.exe" afterDir="false" />
+    <list default="true" id="7389341b-523a-4357-8046-351f596aa413" name="Changes" comment="No Comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo1.c" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/demo2.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +72,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -95,16 +84,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dell\Documents\GitHub\code\23th8 2023" />
       <recent name="D:\Dell\Documents\GitHub\code\25 th 8 nam 2023\bai 5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.t2.c">
-    <configuration name="4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="4.c" CONFIG_NAME="4.c">
-      <option name="sourceFile" value="25 th 8 nam 2023\bai 6\4.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.toan tu.c">
     <configuration name="5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="5.c" CONFIG_NAME="5.c">
       <option name="sourceFile" value="25 th 8 nam 2023\bai 6\5.c" />
       <method v="2">
@@ -129,13 +113,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="toan tu.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="toan tu.c" CONFIG_NAME="toan tu.c">
+      <option name="sourceFile" value="23th8 2023\toan tu.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.toan tu.c" />
         <item itemvalue="C/C++ File.t2.c" />
         <item itemvalue="C/C++ File.demo1.c" />
         <item itemvalue="C/C++ File.test.c" />
         <item itemvalue="C/C++ File.5.c" />
-        <item itemvalue="C/C++ File.4.c" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +143,7 @@
       <workItem from="1693061894339" duration="1480000" />
       <workItem from="1693129317882" duration="323000" />
       <workItem from="1693134876099" duration="961000" />
-      <workItem from="1693189938560" duration="2688000" />
+      <workItem from="1693189938560" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -187,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693062734957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="No Comment">
+      <option name="closed" value="true" />
+      <created>1693195698911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693195698912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +195,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="No Comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="No Comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -213,5 +212,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
