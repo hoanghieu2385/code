@@ -10,8 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7389341b-523a-4357-8046-351f596aa413" name="Changes" comment="No Comment">
-      <change afterPath="$PROJECT_DIR$/toan tu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/Vidu1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/Vidu1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vidu1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vidu2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 2.c" beforeDir="false" afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 3.c" beforeDir="false" afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 4.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,39 +66,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Dell/Documents/GitHub/code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dell/Documents/GitHub/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "ObjectiveC"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;ObjectiveC&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dell\Documents\GitHub\code\23th8 2023" />
       <recent name="D:\Dell\Documents\GitHub\code\25 th 8 nam 2023\bai 5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.compare.c">
+  <component name="RunManager" selected="C/C++ File.vidu2.c">
+    <configuration name="Vidu1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="Vidu1.c" CONFIG_NAME="Vidu1.c">
+      <option name="sourceFile" value="28 th 8 2023\bài 7\Vidu1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bai1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="bai1.c" CONFIG_NAME="bai1.c">
       <option name="sourceFile" value="25 th 8 nam 2023\bai1.c" />
       <method v="2">
@@ -102,31 +117,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="demo1.c" CONFIG_NAME="demo1.c">
-      <option name="sourceFile" value="demo\demo1.c" />
+    <configuration name="simple.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="simple.c" CONFIG_NAME="simple.c">
+      <option name="sourceFile" value="25 th 8 nam 2023\bai 5\simple.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="t2.c" CONFIG_NAME="t2.c">
-      <option name="sourceFile" value="demo\t2.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="toan tu.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="toan tu.c" CONFIG_NAME="toan tu.c">
-      <option name="sourceFile" value="23th8 2023\toan tu.c" />
+    <configuration name="vidu2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="vidu2.c" CONFIG_NAME="vidu2.c">
+      <option name="sourceFile" value="28 th 8 2023\bài 7\vidu2.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.vidu2.c" />
+        <item itemvalue="C/C++ File.Vidu1.c" />
+        <item itemvalue="C/C++ File.simple.c" />
         <item itemvalue="C/C++ File.compare.c" />
         <item itemvalue="C/C++ File.bai1.c" />
-        <item itemvalue="C/C++ File.toan tu.c" />
-        <item itemvalue="C/C++ File.t2.c" />
-        <item itemvalue="C/C++ File.demo1.c" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +154,8 @@
       <workItem from="1693129317882" duration="323000" />
       <workItem from="1693134876099" duration="961000" />
       <workItem from="1693189938560" duration="6474000" />
+      <workItem from="1693306037287" duration="641000" />
+      <workItem from="1693314279961" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
