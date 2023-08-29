@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7389341b-523a-4357-8046-351f596aa413" name="Changes" comment="No Comment">
+      <change afterPath="$PROJECT_DIR$/toan tu.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "preferences.editor",
     "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   },
@@ -88,9 +89,15 @@
       <recent name="D:\Dell\Documents\GitHub\code\25 th 8 nam 2023\bai 5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.toan tu.c">
-    <configuration name="5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="5.c" CONFIG_NAME="5.c">
-      <option name="sourceFile" value="25 th 8 nam 2023\bai 6\5.c" />
+  <component name="RunManager" selected="C/C++ File.compare.c">
+    <configuration name="bai1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="bai1.c" CONFIG_NAME="bai1.c">
+      <option name="sourceFile" value="25 th 8 nam 2023\bai1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compare.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="compare.c" CONFIG_NAME="compare.c">
+      <option name="sourceFile" value="25 th 8 nam 2023\bai 5\compare.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -107,12 +114,6 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="test.c" CONFIG_NAME="test.c">
-      <option name="sourceFile" value="demo\bài 7\test.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="toan tu.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="toan tu.c" CONFIG_NAME="toan tu.c">
       <option name="sourceFile" value="23th8 2023\toan tu.c" />
       <method v="2">
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.compare.c" />
+        <item itemvalue="C/C++ File.bai1.c" />
         <item itemvalue="C/C++ File.toan tu.c" />
         <item itemvalue="C/C++ File.t2.c" />
         <item itemvalue="C/C++ File.demo1.c" />
-        <item itemvalue="C/C++ File.test.c" />
-        <item itemvalue="C/C++ File.5.c" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,7 @@
       <workItem from="1693061894339" duration="1480000" />
       <workItem from="1693129317882" duration="323000" />
       <workItem from="1693134876099" duration="961000" />
-      <workItem from="1693189938560" duration="3645000" />
+      <workItem from="1693189938560" duration="6474000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -185,11 +186,36 @@
       <option name="project" value="LOCAL" />
       <updated>1693195698912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="No Comment">
+      <option name="closed" value="true" />
+      <created>1693196482863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693196482863</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
