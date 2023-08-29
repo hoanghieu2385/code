@@ -10,17 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7389341b-523a-4357-8046-351f596aa413" name="Changes" comment="No Comment">
-      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/Vidu1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/Vidu1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vidu1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vidu2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 1.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 2.c" beforeDir="false" afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu3.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 3.c" beforeDir="false" afterPath="$PROJECT_DIR$/28 th 8 2023/Bai_7/vidu4.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28 th 8 2023/bài 7/Example 4.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +145,7 @@
       <workItem from="1693134876099" duration="961000" />
       <workItem from="1693189938560" duration="6474000" />
       <workItem from="1693306037287" duration="641000" />
-      <workItem from="1693314279961" duration="599000" />
+      <workItem from="1693314279961" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -205,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693196482863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="No Comment">
+      <option name="closed" value="true" />
+      <created>1693315594349</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693315594349</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
