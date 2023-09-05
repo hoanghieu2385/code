@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-
 int main(){
     int i, r, k;
     printf("Vui long nhap vao so i: ");
