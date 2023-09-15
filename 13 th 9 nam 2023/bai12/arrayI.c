@@ -7,7 +7,6 @@ int desnum[100], k;
 int i, j, temp;
 printf("\nEnter the total number of marks to be entered : ");
 scanf("%d", &n); 
-clrscr(); 
 for (l = 0; l < n; l++) 
 {
        printf("\n Enter the marks of student %d : ", l + 1); 
