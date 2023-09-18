@@ -20,4 +20,11 @@ void main(){
     avg = sum/5;
     printf("\nThe sum is: %d", sum);
     printf("\nThe avg is: %d", avg);
+    
+    printf("\nReverse : ");
+    for ( i = 4; i >= 0; i--)
+    {
+        printf("\n%d ", arr[i] );
+    }
+    
 }
