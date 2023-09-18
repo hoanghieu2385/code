@@ -24,7 +24,7 @@ void main(){
     printf("\nReverse : ");
     for ( i = 4; i >= 0; i--)
     {
-        printf("\t%d ", arr[i] );
+        printf("\n%d ", arr[i] );
     }
     
 }
