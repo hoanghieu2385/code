@@ -2,12 +2,12 @@
 
 void monan();
 void menu(char luachon);
-float bill(char luachon, char soluong);
+float bill(char luachon, int soluong);
 
 int main()
 {
     char luachon;
-    char soluong;
+    int soluong;
 
     do {
         monan();
@@ -51,8 +51,10 @@ void menu(char luachon)
     }
 }
 
-float bill(char luachon, char soluong)
+float bill(char luachon, int soluong)
 {
+    printf("lua chon la: %c\n", luachon);
+    printf("So luong la: %d\n", soluong);
     float giatien;
 
     switch (luachon)
