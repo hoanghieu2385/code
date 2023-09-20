@@ -11,10 +11,8 @@ int main()
     printf("Chieu rong: ");
     scanf("%d", &w);
     int result1 = chuvi( l, w);
-    result1 = 2 * (l + w);
     printf("Dien tich hinh chu nhat: %d\n", result1);
     int result2 = dientich( l, w);
-    result1 = l * w;
     printf("Dien tich hinh chu nhat: %d\n", result1);
 }
 
