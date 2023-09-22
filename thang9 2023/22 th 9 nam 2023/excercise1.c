@@ -5,10 +5,12 @@ int sum(int a, int b);
 int sub(int a, int b);
 int mul(int a, int b);
 int div(int a, int b);
+void hienthi();
+void ketqua( char option );
 
 int main()
 {
-    int x, y;
+    int x, y, ketqua;
     printf("Enter number one: ");
     scanf("%d", &x);
     printf("Enter number two: ");
@@ -21,7 +23,8 @@ int main()
     printf("Multiplication is: %d\n", result3);
     int result4 = div(x, y);
     printf("Division: %d\n", result4);
-    return 0;
+
+
 }
 int sum(int a, int b) {
     int c;
