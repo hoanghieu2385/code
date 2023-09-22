@@ -19,7 +19,7 @@ int main()
             scanf("%d", &soluong);
             menu(luachon);
             float tongtien = bill(luachon, soluong);
-            printf("Cua ban het: $%.3f\n\n", tongtien);
+            printf("Cua ban het: $%.3f\n\n\n\n\n", tongtien);
         }
     } while (luachon != 'd');
     return 0;
