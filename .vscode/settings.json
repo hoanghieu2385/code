@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "stdio.h": "c"
-    }
+    },
+    "livePreview.defaultPreviewPath": "/demo/demo1.html"
 }
