@@ -4,8 +4,7 @@ void main (){
     int i = 1;
     do
     {
-        printf("Do you love me? (y/n): ");
-        fflush(stdin);
+        printf("\nDo you love me? (y/n): ");
         scanf("%c", &a);
         i++;
     } while ((a != 'y'  &&  i <= 3));

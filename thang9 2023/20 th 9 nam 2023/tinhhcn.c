@@ -11,9 +11,9 @@ int main()
     printf("Chieu rong: ");
     scanf("%d", &w);
     int result1 = chuvi( l, w);
-    printf("Dien tich hinh chu nhat: %d\n", result1);
+    printf("Chu vi hinh chu nhat: %d\n", result1);
     int result2 = dientich( l, w);
-    printf("Dien tich hinh chu nhat: %d\n", result1);
+    printf("Dien tich hinh chu nhat: %d\n", result2);
 }
 
 int chuvi(int a, int b){
